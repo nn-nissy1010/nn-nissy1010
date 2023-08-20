@@ -1,4 +1,4 @@
-### 活動歴
+# 活動歴
 
 <!--
 **nn-nissy1010/nn-nissy1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
