@@ -33,9 +33,6 @@
 2023年9月　NEC　サマーインターン
 
 2023年9月　アマゾンウェブサービスジャパン合同会社　サマーワークショップ
-
-2023年9月　株式会社Speee　サマーインターン
-
 <!--
 **nn-nissy1010/nn-nissy1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
