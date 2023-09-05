@@ -33,5 +33,3 @@
 2023年9月　NEC　サマーインターン
 
 2023年9月　アマゾンウェブサービスジャパン合同会社　サマーワークショップ
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nn-nissy1010)](https://github.com/anuraghazra/github-readme-stats)
