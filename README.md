@@ -28,7 +28,7 @@
 
 2023年3月　[個人開発]「学習記録アプリ(CMS対応)」を開発。
 
-2023年3月　　[3ヶ月間のチーム開発]「[企業の物品やナレッジシェアSaaS](https://github.com/posse-ap/teamdev-2023-posse2-team2B/tree/develop)」を開発
+2023年3月　[3ヶ月間のチーム開発]「[企業の物品やナレッジシェアSaaS](https://github.com/posse-ap/teamdev-2023-posse2-team2B/tree/develop)」を開発
 
 2023年9月　NEC　サマーインターン
 
