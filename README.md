@@ -1,5 +1,6 @@
 ### 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nn-nissy1010&theme=vue-dark&show_icons=true&layout=compact&cache_seconds=7200)
+![GitHub top language](https://img.shields.io/github/languages/top/nn-nissy1010?style=for-the-badge)
+![Repo count](https://img.shields.io/github/search/nn-nissy1010/nn-nissy1010?label=repos&style=for-the-badge)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/nn-nissy1010?style=for-the-badge)
